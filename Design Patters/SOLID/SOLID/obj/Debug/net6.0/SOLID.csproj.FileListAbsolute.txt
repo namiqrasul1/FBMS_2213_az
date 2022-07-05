@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\bin\Debug\net6.0\SOLID.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\bin\Debug\net6.0\SOLID.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\bin\Debug\net6.0\SOLID.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\bin\Debug\net6.0\SOLID.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\bin\Debug\net6.0\SOLID.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\refint\SOLID.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\SOLID.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\SOLID\SOLID\obj\Debug\net6.0\ref\SOLID.dll
