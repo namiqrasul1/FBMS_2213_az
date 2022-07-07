@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
