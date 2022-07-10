@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\bin\Debug\net6.0\SingletonPrototype.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\bin\Debug\net6.0\SingletonPrototype.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\bin\Debug\net6.0\SingletonPrototype.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\bin\Debug\net6.0\SingletonPrototype.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\bin\Debug\net6.0\SingletonPrototype.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\refint\SingletonPrototype.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\SingletonPrototype.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\SingletonPrototype\SingletonPrototype\obj\Debug\net6.0\ref\SingletonPrototype.dll
