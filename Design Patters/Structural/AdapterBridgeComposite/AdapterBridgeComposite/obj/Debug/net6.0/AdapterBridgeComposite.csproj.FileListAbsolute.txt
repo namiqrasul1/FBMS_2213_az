@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\bin\Debug\net6.0\AdapterBridgeComposite.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\bin\Debug\net6.0\AdapterBridgeComposite.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\bin\Debug\net6.0\AdapterBridgeComposite.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\bin\Debug\net6.0\AdapterBridgeComposite.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\bin\Debug\net6.0\AdapterBridgeComposite.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\refint\AdapterBridgeComposite.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\AdapterBridgeComposite.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Creational Patterns\AdapterBridgeComposite\AdapterBridgeComposite\obj\Debug\net6.0\ref\AdapterBridgeComposite.dll

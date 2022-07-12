@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterBridgeComposite", "AdapterBridgeComposite\AdapterBridgeComposite.csproj", "{1E78CE3E-413A-429A-8039-76C315AB8208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E78CE3E-413A-429A-8039-76C315AB8208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E78CE3E-413A-429A-8039-76C315AB8208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E78CE3E-413A-429A-8039-76C315AB8208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E78CE3E-413A-429A-8039-76C315AB8208}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E322499B-E98E-4510-8352-3A67A9A96A00}
+	EndGlobalSection
+EndGlobal
