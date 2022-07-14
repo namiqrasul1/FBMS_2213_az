@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\bin\Debug\net6.0\FacadaPattern.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\bin\Debug\net6.0\FacadaPattern.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\bin\Debug\net6.0\FacadaPattern.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\bin\Debug\net6.0\FacadaPattern.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\bin\Debug\net6.0\FacadaPattern.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\refint\FacadaPattern.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\FacadaPattern.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\FacadaPattern\FacadaPattern\obj\Debug\net6.0\ref\FacadaPattern.dll

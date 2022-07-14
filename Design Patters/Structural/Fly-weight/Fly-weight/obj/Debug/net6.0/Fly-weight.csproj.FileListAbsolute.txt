@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\bin\Debug\net6.0\Fly-weight.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\bin\Debug\net6.0\Fly-weight.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\bin\Debug\net6.0\Fly-weight.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\bin\Debug\net6.0\Fly-weight.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\bin\Debug\net6.0\Fly-weight.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\refint\Fly-weight.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\Fly-weight.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Structural\Fly-weight\Fly-weight\obj\Debug\net6.0\ref\Fly-weight.dll
