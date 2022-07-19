@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\bin\Debug\net6.0\Memento.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\bin\Debug\net6.0\Memento.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\bin\Debug\net6.0\Memento.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\bin\Debug\net6.0\Memento.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\bin\Debug\net6.0\Memento.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\refint\Memento.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\Memento.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\BehavioralDesignPatterns\Memento\obj\Debug\net6.0\ref\Memento.dll

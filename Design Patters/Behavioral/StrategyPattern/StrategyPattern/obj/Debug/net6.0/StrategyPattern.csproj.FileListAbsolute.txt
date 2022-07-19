@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.exe
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.deps.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\refint\StrategyPattern.dll
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.pdb
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\FBMS_2213_az\Design Patters\Behavioral\StrategyPattern\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
